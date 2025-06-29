@@ -49,8 +49,8 @@ Welcome to the **Ethereum Time Series Forecasting** project! This repository sho
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/ethereum-arima-forecast.git
-cd ethereum-arima-forecast
+git clone https://github.com/yourusername/eth-price-predictor.git
+cd eth-price-predictor
 ```
 
 2. **Run the script**
